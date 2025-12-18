@@ -1,0 +1,17 @@
+{
+	id: "dccf253f-9023-45d8-9176-830e0a52230a"
+	type: "player"
+	player_name: "mrworlwidedale"
+	ranks: {
+		dccf253f-9023-45d8-9176-830e0a52230a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "mrworlwidedale"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59EDFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

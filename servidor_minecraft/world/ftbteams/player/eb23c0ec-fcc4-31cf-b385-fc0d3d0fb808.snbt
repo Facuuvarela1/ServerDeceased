@@ -1,0 +1,15 @@
+{
+	id: "eb23c0ec-fcc4-31cf-b385-fc0d3d0fb808"
+	type: "player"
+	player_name: "Albeolo"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Albeolo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59ED"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

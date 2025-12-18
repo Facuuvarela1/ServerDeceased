@@ -1,0 +1,15 @@
+{
+	id: "f6733812-a6e5-3999-ad3f-f8fb28a2a388"
+	type: "player"
+	player_name: "mrworlwidedale"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "mrworlwidedale"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D8"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

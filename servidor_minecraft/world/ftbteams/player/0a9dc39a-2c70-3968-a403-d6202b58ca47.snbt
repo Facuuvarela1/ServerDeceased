@@ -1,0 +1,15 @@
+{
+	id: "0a9dc39a-2c70-3968-a403-d6202b58ca47"
+	type: "player"
+	player_name: "porkinho"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "porkinho"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF69"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

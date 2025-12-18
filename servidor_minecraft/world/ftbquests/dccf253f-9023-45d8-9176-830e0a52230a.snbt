@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "dccf253f902345d89176830e0a52230a"
+	name: "mrworlwidedale"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+	}
+	started: {
+		7CE16FEEA03DBE1F: 1766020326951L
+		4523079E2318BD94: 1766020326951L
+		2583DDB195B6CFEA: 1766020326951L
+		0000000000000001: 1766020326951L
+		2C6177EDC934F9DC: 1766020326952L
+		047C5CB3ED9A8E47: 1766020326952L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

@@ -1,0 +1,25 @@
+{
+	id: "dd4ee9d9-3e7b-431c-a4bf-579c8f67fdf6"
+	type: "party"
+	owner: "f6733812-a6e5-3999-ad3f-f8fb28a2a388"
+	ranks: {
+		f6733812-a6e5-3999-ad3f-f8fb28a2a388: "owner"
+		0a9dc39a-2c70-3968-a403-d6202b58ca47: "member"
+		eb23c0ec-fcc4-31cf-b385-fc0d3d0fb808: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "mrworlwidedale's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D8"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766022516870L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"mrworlwidedale\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "f6733812-a6e5-3999-ad3f-f8fb28a2a388", date: 1766022516876L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"porkinho\"}]}" }
+		{ from: "f6733812-a6e5-3999-ad3f-f8fb28a2a388", date: 1766022516876L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Albeolo\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766022519853L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Albeolo\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766022579276L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"porkinho\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}
